@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\practise"
+    "\\practise",
+    "\\practise\\Pages",
+    "\\practise\\Properties",
+    "\\practise\\wwwroot"
   ],
-  "SelectedNode": "\\practise\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
